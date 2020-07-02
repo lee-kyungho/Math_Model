@@ -1,6 +1,6 @@
 # Study
 
-This repository contains codes that I has written for study, research and homeworks for lectures I took.
+This repository contains codes that I has written for study, research and homeworks for lectures I took. I also added some summary of the courses with an adequate link.
 
 1. Studies in Advanced Industrial Organization
 
