@@ -10,7 +10,7 @@ In this course, I learned modern demand estimation method with practical impleme
 
 2. Mathematical Modeling and Simulation 
 
-Purpose of the course: We study modern mathematical models arising from engineering, medicine, management science, and data science and use tools from optimization and machine learning to solve them.
+In this course, we study modern mathematical models arising from engineering, medicine, management science, and data science and use tools from optimization and machine learning to solve them.
 
 Lecture plan:
 
