@@ -2,13 +2,13 @@
 
 This repository contains codes that I have written for study, research and homeworks for lectures I took. I also added some summary of the courses with an adequate link.
 
-1. Advanced Studies in Industrial Organization
+# 1. Advanced Studies in Industrial Organization
 
 Course Link: https://sites.google.com/site/oyvindthomassen/io19
 
 In this course, I learned modern demand estimation method with practical implementation. The foremost goal of the course is to understand and implement Berry, Levinsohn and Pakes(Econometrica, 1995; henceforth BLP) by oneself. This course not only introduced the theory of demand estimation and GMM and ways to implement GMM estimation in Matlab, but also introduced empirical model for consuming a bundle of products such as consumer behaviors in a supermarket. Clikcing the course link, You are able to know what I had learned in the course in detail.
 
-2. Mathematical Modeling and Simulation 
+# 2. Mathematical Modeling and Simulation 
 
 In this course, we study modern mathematical models arising from engineering, medicine, management science, and data science and use tools from optimization and machine learning to solve them.
 
