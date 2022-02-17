@@ -5,8 +5,6 @@ Shallow learning: Perceptron algorithm, SVM, Logstic regression
 
 @author: Kyungho Lee at SNU Econ
 
-Note: Some starter codes are provided by the lecturer.
-
 """
 
 """
